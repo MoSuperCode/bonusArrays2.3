@@ -1,0 +1,29 @@
+form {
+    width: 350px;
+    margin: 10% auto;
+    border: solid 1px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+
+input {
+    display: block;
+    width: 90%;
+    margin: 5% auto;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+button {
+    margin: 5%;
+    background-color: rgb(249, 189, 115);
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+
+}
